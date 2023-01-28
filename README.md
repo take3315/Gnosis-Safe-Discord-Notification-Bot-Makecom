@@ -4,7 +4,7 @@ This is a BOT that monitors txn status of Gnosis SAFE and posts a Discord messag
 
 SETUP
 - Line 24: Replace with your 0x Safe address.
-- Line 514: Replace with your SAFE's required confirmation numbers (if 6-of-to then 6).
+- Line 514: Replace with your SAFE's required confirmation numbers (if 6-of-10 then 6).
 - Line 526: Replace with any msg you wish to post to Discord.
 - Line 527: Replace with your Discord Webhook.
 
