@@ -1,4 +1,4 @@
-# Gnosis-Safe-Notification-Bot-makecom
+# Gnosis-Safe-Notification-Bot-Make.com
 
 This is a BOT that monitors txn status of Gnosis SAFE and posts a Discord message notifying when the txn receives required number of confirmations (e.g. 6 confirmations in 6/10 safe)
 
